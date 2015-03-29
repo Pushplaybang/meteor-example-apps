@@ -1,0 +1,9 @@
+[submodule "libreboard"]
+	path = libreboard
+	url = http://git.libreboard.com/libreboard/libreboard.git
+[submodule "Telescope"]
+	path = Telescope
+	url = https://github.com/TelescopeJS/Telescope.git
+[submodule "leaflet-parties"]
+	path = leaflet-parties
+	url = https://github.com/awatson1978/leaflet-parties.git
