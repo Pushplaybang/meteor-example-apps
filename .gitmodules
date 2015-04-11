@@ -7,3 +7,6 @@
 [submodule "leaflet-parties"]
 	path = leaflet-parties
 	url = https://github.com/awatson1978/leaflet-parties.git
+[submodule "loopy"]
+	path = loopy
+	url = https://Pushplaybang@github.com/stubailo/loopy
